@@ -1,0 +1,24 @@
+Focusing on PD among all other neurological diseases. 
+Mention the symptoms.
+Provide 5 papers using vocal characteristics.
+UPDRS Scaling discussing the 5 stages of PD.
+People involved in the diagnosis: speech therapist, occupational therapist, neurologist, physiotherapist.
+
+Since there are many features in the dataset and we cannot avoid any of them, 
+i will use a Deep Learning framework, since it perform the feature extraction itself.
+Will be using a RNN
+
+will be using the keras library to generate the dense layer
+
+to optimize and incraese the efficacy, i will be using the regurlarization techniques
+also to avoid overfitting, we will be using the dropout concept
+
+types of activation function
+
+at every node, processing will happen using an activation function.
+
+cost function or loss function
+
+evaluation metrics accuracy, precision and recall
+
+hyperparameter tuning: no of hidden layers, no of nodes, dropout, regularization technique, optimizer, loss function and metrics

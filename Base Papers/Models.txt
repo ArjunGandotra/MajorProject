@@ -1,0 +1,4 @@
+[3]: Manipulation of Text converted from Speech. They use a CNN based model with manual CHAT transcripts and ASR based text features. Dataset used is a collection of audio recordings and transcripts
+from 37 people with PD who have a PD diagnosis.
+
+[1]: 
